@@ -1,0 +1,17 @@
+#Window resolution
+SCREEN_H = 720
+SCREEN_W = 1280
+
+
+#Circles number
+CIRCLES_NUMBER = 1000
+
+#Circles settings
+CIRCLE_MAX_RADIUS = 40
+CIRCLE_BORDER = 0
+CIRCLE_MAX_SPEED = 10.0
+CIRCLE_MAX_WEIGHT = 10.0
+
+BORDER_PADDING = 2
+FPS = 3
+g = 9.81
